@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 import { toast }  from "react-toastify";
 // import data from './assets/data/Data';
 
-const url = "http://www.omdbapi.com/?s=";
+const url = "https://www.omdbapi.com/?s=";
 
 // localStorage
 const localStorageFavourites = (list) => {
